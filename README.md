@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Predicting a relation between solar and temperature variations**
 
-- 🌱 I’m currently learning **Generative Adversarial Networks(GAN's)**
+- 🌱 I’m currently learning **GPU Programming**
 
 - 👯 I’m looking to collaborate on [Classifying Artworks/Paintings Using Deep Learning Techniques](https://github.com/vamsin07/Classifying-paintings-using-Deep-Learning)
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **MERN Stack, CNN's, Data Wrangling, and EDA**
 
-- 📫 How to reach me **workshivam17@gmail.com**
+- 📫 How to reach me **shs046@ucsd.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pDdseBq9SU4z2dYFSBvWE3VLe80ooC7z/view?usp=sharing](https://drive.google.com/file/d/1pDdseBq9SU4z2dYFSBvWE3VLe80ooC7z/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GWT0RRc0O_0v_mdrd_DRh4tSfYQExEko/view?usp=sharing](https://drive.google.com/file/d/1GWT0RRc0O_0v_mdrd_DRh4tSfYQExEko/view?usp=sharing)
 
 - ⚡ Fun fact **My hobbies include playing tennis, cooking food, and reading books. Since the day I discovered these hobbies, I haven't yet tried all of them together in a single day.**
 
