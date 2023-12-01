@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **Predicting a relation between solar and temperature variations**
+- 🔭 I’m currently pursuing M.S. in Machine Learning and Data Science at **University of California San Diego**
 
-- 🌱 I’m currently learning **GPU Programming**
+- 🌱 I’m currently learning and exploring **GPU Programming**
 
 - 👯 I’m looking to collaborate on [Classifying Artworks/Paintings Using Deep Learning Techniques](https://github.com/vamsin07/Classifying-paintings-using-Deep-Learning)
 
 - 🤝 I’m looking for help with [Classifying Artworks/Paintings Using Deep Learning Techniques](https://github.com/vamsin07/Classifying-paintings-using-Deep-Learning)
 
 - 👨‍💻 All of my projects are available at [https://vamsin07.github.io/Portfolio-Website/](https://vamsin07.github.io/Portfolio-Website/)
-
-- 📝 I regularly write articles on [WordPress](WordPress)
 
 - 💬 Ask me about **MERN Stack, CNN's, Data Wrangling, and EDA**
 
